@@ -1,5 +1,10 @@
-# Resume Template
+# **Resume**
 
-*** Personal Resume Template for HTML & CSS with FontAwesome Icons
+***Personal Resume Template using HTML & CSS and FontAwesome Icons***
 
-*under construction*
+
+<br/>
+<br/>
+
+<img  src="assets/preview.png" width="480px" alt="preview">
+
